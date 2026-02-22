@@ -16,7 +16,7 @@ A command-line Python program that creates an audio mashup from multiple videos.
 
 - Python 3.11
 - ffmpeg installed
-- ## 📦 PyPI Packages Used
+  ## 📦 PyPI Packages Used
 - moviepy
 - pydub
 
@@ -42,5 +42,6 @@ python 102303561.py "Sharry Maan" 20 25 output.mp3
 © 2026 Arshdeep Kaur
 
 This reopsitory is licensed under MIT License. See LICENSE for details.
+
 
 
