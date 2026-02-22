@@ -36,7 +36,7 @@ Example:
 
 python 102303561.py "Sharry Maan" 20 25 output.mp3
 
-## 📸 Web Interface Screenshot
+## 📸 Web Interface
 
 <img width="400" height="377" alt="Screenshot 2026-02-23 at 12 58 23 AM" src="https://github.com/user-attachments/assets/b35b105e-2086-430f-8850-739575c7f72d" />
 
@@ -45,6 +45,7 @@ python 102303561.py "Sharry Maan" 20 25 output.mp3
 © 2026 Arshdeep Kaur
 
 This reopsitory is licensed under MIT License. See LICENSE for details.
+
 
 
 
